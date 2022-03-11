@@ -3,7 +3,7 @@
 
 ## رابـط السـورس للتنـصيـب
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jkmphzu/jmthon)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kmphzu/jmthon)
 
 ## شكـرا لكـم 
 
